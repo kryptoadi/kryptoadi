@@ -1,3 +1,5 @@
+<img src="https://github.com/kryptoadi/kryptoadi/blob/main/banner.png" alt="Banner" width="100%" />
+
 <h1 align="center">Hi there 👋, I'm Aditya Kumar</h1>
 <p align="center">
   🎓 B.Tech CSE @ SRM University AP | 💻 Developer | 🧠 Deep Learning & Data Enthusiast
